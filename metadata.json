@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Auth Suite",
+  "description": "A professional-grade authentication template built with React, Tailwind CSS, and Supabase, featuring secure login, registration, and password recovery flows.",
+  "requestFramePermissions": []
+}
